@@ -1,0 +1,241 @@
+[10-Dec-2018 19:38:07 Africa/Nairobi] PHP Fatal error:  Call to a member function prepare() on null in /home/semewear/public_html/Admin/adminLogin.php on line 32
+[10-Dec-2018 19:41:31 Africa/Nairobi] PHP Fatal error:  Call to a member function prepare() on null in /home/semewear/public_html/Admin/adminLogin.php on line 32
+[10-Dec-2018 19:43:36 Africa/Nairobi] PHP Fatal error:  Call to a member function prepare() on null in /home/semewear/public_html/Admin/adminLogin.php on line 32
+[10-Dec-2018 19:46:03 Africa/Nairobi] PHP Fatal error:  Call to a member function prepare() on null in /home/semewear/public_html/Admin/adminLogin.php on line 32
+[10-Dec-2018 20:14:46 Africa/Nairobi] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/semewear/public_html/Admin/createProducts.php on line 64
+[10-Dec-2018 20:18:44 Africa/Nairobi] PHP Notice:  Undefined variable: method in /home/semewear/public_html/Admin/jwtGen.php on line 27
+[10-Dec-2018 20:18:44 Africa/Nairobi] PHP Warning:  openssl_cipher_iv_length(): Unknown cipher algorithm in /home/semewear/public_html/Admin/jwtGen.php on line 27
+[10-Dec-2018 20:18:44 Africa/Nairobi] PHP Notice:  Undefined variable: method in /home/semewear/public_html/Admin/jwtGen.php on line 33
+[10-Dec-2018 20:18:44 Africa/Nairobi] PHP Warning:  openssl_decrypt(): Unknown cipher algorithm in /home/semewear/public_html/Admin/jwtGen.php on line 33
+[10-Dec-2018 20:18:44 Africa/Nairobi] PHP Warning:  hash_equals(): Expected known_string to be a string, boolean given in /home/semewear/public_html/Admin/jwtGen.php on line 36
+[10-Dec-2018 20:42:15 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '{' in /home/semewear/public_html/Admin/adminLogin.php on line 47
+[10-Dec-2018 20:44:06 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '{' in /home/semewear/public_html/Admin/adminLogin.php on line 47
+[10-Dec-2018 20:46:01 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ':' in /home/semewear/public_html/Admin/adminLogin.php on line 47
+[10-Dec-2018 20:58:52 Africa/Nairobi] PHP Notice:  Undefined variable: method in /home/semewear/public_html/Admin/jwtGen.php on line 27
+[10-Dec-2018 20:58:52 Africa/Nairobi] PHP Warning:  openssl_cipher_iv_length(): Unknown cipher algorithm in /home/semewear/public_html/Admin/jwtGen.php on line 27
+[10-Dec-2018 20:58:52 Africa/Nairobi] PHP Notice:  Undefined variable: method in /home/semewear/public_html/Admin/jwtGen.php on line 33
+[10-Dec-2018 20:58:52 Africa/Nairobi] PHP Warning:  openssl_decrypt(): Unknown cipher algorithm in /home/semewear/public_html/Admin/jwtGen.php on line 33
+[10-Dec-2018 20:58:52 Africa/Nairobi] PHP Warning:  hash_equals(): Expected known_string to be a string, boolean given in /home/semewear/public_html/Admin/jwtGen.php on line 36
+[10-Dec-2018 21:04:43 Africa/Nairobi] PHP Warning:  hash_equals(): Expected known_string to be a string, boolean given in /home/semewear/public_html/Admin/jwtGen.php on line 36
+[10-Dec-2018 21:10:35 Africa/Nairobi] PHP Warning:  hash_equals(): Expected user_string to be a string, boolean given in /home/semewear/public_html/Admin/jwtGen.php on line 36
+[10-Dec-2018 21:19:34 Africa/Nairobi] PHP Warning:  hash_equals(): Expected known_string to be a string, boolean given in /home/semewear/public_html/Admin/jwtGen.php on line 36
+[10-Dec-2018 21:28:00 Africa/Nairobi] PHP Warning:  hash_equals(): Expected known_string to be a string, boolean given in /home/semewear/public_html/Admin/jwtGen.php on line 36
+[12-Dec-2018 10:46:57 Africa/Nairobi] PHP Fatal error:  Call to undefined function random_bytes() in /home/semewear/public_html/Admin/createProducts.php on line 73
+[12-Dec-2018 10:52:12 Africa/Nairobi] PHP Warning:  hash_equals(): Expected known_string to be a string, boolean given in /home/semewear/public_html/Admin/jwtGen.php on line 36
+[12-Dec-2018 10:52:12 Africa/Nairobi] PHP Fatal error:  Call to undefined function random_bytes() in /home/semewear/public_html/Admin/createProducts.php on line 73
+[12-Dec-2018 15:30:27 Africa/Nairobi] PHP Fatal error:  Call to undefined function random_bytes() in /home/semewear/public_html/Admin/createProducts.php on line 73
+[12-Dec-2018 18:01:01 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '$' in /home/semewear/public_html/Admin/idgen.php on line 6
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  implode(): Argument must be an array in /home/semewear/public_html/Admin/idgen.php on line 10
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Notice:  Undefined variable: bytes in /home/semewear/public_html/Admin/createProducts.php on line 76
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/semewear/public_html/Admin/createProducts.php on line 82
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxP9aTW' to 'uploads/' in /home/semewear/public_html/Admin/createProducts.php on line 82
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:02:32 Africa/Nairobi] PHP Warning:  implode(): Argument must be an array in /home/semewear/public_html/Admin/idgen.php on line 10
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  implode(): Argument must be an array in /home/semewear/public_html/Admin/idgen.php on line 10
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Notice:  Undefined variable: bytes in /home/semewear/public_html/Admin/createProducts.php on line 76
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/semewear/public_html/Admin/createProducts.php on line 82
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYcGve9' to 'uploads/' in /home/semewear/public_html/Admin/createProducts.php on line 82
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/semewear/public_html/Admin/idgen.php on line 7
+[12-Dec-2018 18:08:40 Africa/Nairobi] PHP Warning:  implode(): Argument must be an array in /home/semewear/public_html/Admin/idgen.php on line 10
+[12-Dec-2018 18:12:46 Africa/Nairobi] PHP Notice:  Undefined variable: bytes in /home/semewear/public_html/Admin/createProducts.php on line 76
+[12-Dec-2018 18:12:46 Africa/Nairobi] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/semewear/public_html/Admin/createProducts.php on line 82
+[12-Dec-2018 18:12:46 Africa/Nairobi] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpN5QcJR' to 'uploads/' in /home/semewear/public_html/Admin/createProducts.php on line 82
+[12-Dec-2018 18:22:42 Africa/Nairobi] PHP Warning:  move_uploaded_file(uploads/UT3Fv13HJIfa70Wimage/jpeg): failed to open stream: No such file or directory in /home/semewear/public_html/Admin/createProducts.php on line 83
+[12-Dec-2018 18:22:42 Africa/Nairobi] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3GIitn' to 'uploads/UT3Fv13HJIfa70Wimage/jpeg' in /home/semewear/public_html/Admin/createProducts.php on line 83
+[12-Dec-2018 18:36:48 Africa/Nairobi] PHP Warning:  move_uploaded_file(uploads/ZXFSf0V4eREM0QH./jpeg): failed to open stream: No such file or directory in /home/semewear/public_html/Admin/createProducts.php on line 84
+[12-Dec-2018 18:36:48 Africa/Nairobi] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpG85cFQ' to 'uploads/ZXFSf0V4eREM0QH./jpeg' in /home/semewear/public_html/Admin/createProducts.php on line 84
+[12-Dec-2018 20:18:59 Africa/Nairobi] PHP Warning:  hash_equals(): Expected known_string to be a string, boolean given in /home/semewear/public_html/Admin/jwtGen.php on line 36
+[12-Dec-2018 20:55:35 Africa/Nairobi] PHP Notice:  Use of undefined constant Authorization - assumed 'Authorization' in /home/semewear/public_html/Admin/delete.php on line 56
+[12-Dec-2018 20:55:35 Africa/Nairobi] PHP Fatal error:  Call to undefined function Extractor() in /home/semewear/public_html/Admin/delete.php on line 58
+[12-Dec-2018 20:57:05 Africa/Nairobi] PHP Notice:  Use of undefined constant Authorization - assumed 'Authorization' in /home/semewear/public_html/Admin/delete.php on line 56
+[12-Dec-2018 20:57:05 Africa/Nairobi] PHP Fatal error:  Call to undefined function Extractor() in /home/semewear/public_html/Admin/delete.php on line 58
+[12-Dec-2018 21:05:33 Africa/Nairobi] PHP Warning:  hash_equals(): Expected known_string to be a string, boolean given in /home/semewear/public_html/Admin/jwtGen.php on line 36
+[12-Dec-2018 21:06:05 Africa/Nairobi] PHP Notice:  Use of undefined constant Authorization - assumed 'Authorization' in /home/semewear/public_html/Admin/delete.php on line 56
+[12-Dec-2018 21:06:05 Africa/Nairobi] PHP Fatal error:  Call to undefined function Extractor() in /home/semewear/public_html/Admin/delete.php on line 58
+[12-Dec-2018 21:10:34 Africa/Nairobi] PHP Warning:  include_once(jwtgen.php): failed to open stream: No such file or directory in /home/semewear/public_html/Admin/delete.php on line 11
+[12-Dec-2018 21:10:34 Africa/Nairobi] PHP Warning:  include_once(): Failed opening 'jwtgen.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/semewear/public_html/Admin/delete.php on line 11
+[12-Dec-2018 21:10:34 Africa/Nairobi] PHP Notice:  Use of undefined constant Authorization - assumed 'Authorization' in /home/semewear/public_html/Admin/delete.php on line 57
+[12-Dec-2018 21:10:34 Africa/Nairobi] PHP Fatal error:  Call to undefined function Extractor() in /home/semewear/public_html/Admin/delete.php on line 59
+[12-Dec-2018 21:13:37 Africa/Nairobi] PHP Notice:  Use of undefined constant Authorization - assumed 'Authorization' in /home/semewear/public_html/Admin/delete.php on line 57
+[12-Dec-2018 21:13:37 Africa/Nairobi] PHP Warning:  openssl_decrypt(): IV passed is only 6 bytes long, cipher expects an IV of precisely 16 bytes, padding with \0 in /home/semewear/public_html/Admin/jwtGen.php on line 33
+[12-Dec-2018 21:13:37 Africa/Nairobi] PHP Warning:  hash_equals(): Expected known_string to be a string, boolean given in /home/semewear/public_html/Admin/jwtGen.php on line 36
+[12-Dec-2018 21:13:37 Africa/Nairobi] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/semewear/public_html/Admin/delete.php on line 81
+[13-Dec-2018 14:12:44 Africa/Nairobi] PHP Notice:  Use of undefined constant Authorization - assumed 'Authorization' in /home/semewear/public_html/Admin/delete.php on line 57
+[13-Dec-2018 14:12:44 Africa/Nairobi] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/semewear/public_html/Admin/delete.php on line 81
+[22-Dec-2018 16:55:36 Africa/Nairobi] PHP Notice:  Use of undefined constant Authorization - assumed 'Authorization' in /home/semewear/public_html/Admin/delete.php on line 57
+[22-Dec-2018 16:55:36 Africa/Nairobi] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/semewear/public_html/Admin/delete.php on line 81
+[22-Dec-2018 16:55:42 Africa/Nairobi] PHP Notice:  Use of undefined constant Authorization - assumed 'Authorization' in /home/semewear/public_html/Admin/delete.php on line 57
+[22-Dec-2018 16:55:42 Africa/Nairobi] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/semewear/public_html/Admin/delete.php on line 81
+[22-Dec-2018 16:55:46 Africa/Nairobi] PHP Notice:  Use of undefined constant Authorization - assumed 'Authorization' in /home/semewear/public_html/Admin/delete.php on line 57
+[22-Dec-2018 16:55:46 Africa/Nairobi] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/semewear/public_html/Admin/delete.php on line 81
+[06-Jan-2019 23:41:04 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home/semewear/public_html/Admin/database.php:13
+Stack trace:
+#0 /home/semewear/public_html/Admin/adminLogin.php(12): Database->getConnection()
+#1 {main}
+  thrown in /home/semewear/public_html/Admin/database.php on line 13
+[08-Jan-2019 09:52:57 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home/semewear/public_html/Admin/database.php:13
+Stack trace:
+#0 /home/semewear/public_html/Admin/adminLogin.php(12): Database->getConnection()
+#1 {main}
+  thrown in /home/semewear/public_html/Admin/database.php on line 13
+[08-Jan-2019 09:52:57 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home/semewear/public_html/Admin/database.php:13
+Stack trace:
+#0 /home/semewear/public_html/Admin/adminLogin.php(12): Database->getConnection()
+#1 {main}
+  thrown in /home/semewear/public_html/Admin/database.php on line 13
+[08-Jan-2019 09:53:41 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home/semewear/public_html/Admin/database.php:13
+Stack trace:
+#0 /home/semewear/public_html/Admin/adminLogin.php(12): Database->getConnection()
+#1 {main}
+  thrown in /home/semewear/public_html/Admin/database.php on line 13
+[08-Jan-2019 09:53:46 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home/semewear/public_html/Admin/database.php:13
+Stack trace:
+#0 /home/semewear/public_html/Admin/adminLogin.php(12): Database->getConnection()
+#1 {main}
+  thrown in /home/semewear/public_html/Admin/database.php on line 13
+[13-Jan-2019 15:28:30 Africa/Nairobi] PHP Warning:  Use of undefined constant Authorization - assumed 'Authorization' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/delete.php on line 57
+[13-Jan-2019 15:28:30 Africa/Nairobi] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/delete.php on line 81
+[13-Jan-2019 15:31:42 Africa/Nairobi] PHP Notice:  Undefined variable: Authorization in /home/semewear/public_html/Admin/delete.php on line 58
+[13-Jan-2019 15:31:42 Africa/Nairobi] PHP Warning:  hash_equals(): Expected known_string to be a string, boolean given in /home/semewear/public_html/Admin/jwtGen.php on line 36
+[13-Jan-2019 15:31:42 Africa/Nairobi] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/delete.php on line 81
+[13-Jan-2019 15:32:32 Africa/Nairobi] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/delete.php on line 81
+[13-Jan-2019 16:18:09 Africa/Nairobi] PHP Warning:  Use of undefined constant Authorization - assumed 'Authorization' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 77
+[13-Jan-2019 16:18:09 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 100
+[13-Jan-2019 16:18:09 Africa/Nairobi] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 102
+[13-Jan-2019 16:18:09 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/semewear/public_html/Admin/update.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/semewear/public_html/Admin/update.php on line 102
+[13-Jan-2019 16:20:47 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 100
+[13-Jan-2019 16:20:47 Africa/Nairobi] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 102
+[13-Jan-2019 16:20:47 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/semewear/public_html/Admin/update.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/semewear/public_html/Admin/update.php on line 102
+[13-Jan-2019 16:25:21 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 100
+[13-Jan-2019 16:25:21 Africa/Nairobi] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 103
+[13-Jan-2019 16:25:21 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/semewear/public_html/Admin/update.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/semewear/public_html/Admin/update.php on line 103
+[13-Jan-2019 16:28:05 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 100
+[13-Jan-2019 16:28:05 Africa/Nairobi] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 103
+[13-Jan-2019 16:28:05 Africa/Nairobi] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 104
+[13-Jan-2019 16:28:05 Africa/Nairobi] PHP Warning:  Use of undefined constant price - assumed 'price' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 105
+[13-Jan-2019 16:28:05 Africa/Nairobi] PHP Warning:  Use of undefined constant description - assumed 'description' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 106
+[13-Jan-2019 16:28:05 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 107
+[13-Jan-2019 16:28:05 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_id in /home/semewear/public_html/Admin/update.php on line 55
+[13-Jan-2019 16:28:05 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_name in /home/semewear/public_html/Admin/update.php on line 56
+[13-Jan-2019 16:32:26 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 100
+[13-Jan-2019 16:32:26 Africa/Nairobi] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 103
+[13-Jan-2019 16:32:26 Africa/Nairobi] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 104
+[13-Jan-2019 16:32:26 Africa/Nairobi] PHP Warning:  Use of undefined constant price - assumed 'price' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 105
+[13-Jan-2019 16:32:26 Africa/Nairobi] PHP Warning:  Use of undefined constant description - assumed 'description' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 106
+[13-Jan-2019 16:32:26 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 107
+[13-Jan-2019 16:32:26 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_id in /home/semewear/public_html/Admin/update.php on line 55
+[13-Jan-2019 16:32:26 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_name in /home/semewear/public_html/Admin/update.php on line 56
+[13-Jan-2019 16:35:26 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 100
+[13-Jan-2019 16:35:26 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$category_name in /home/semewear/public_html/Admin/update.php on line 100
+[13-Jan-2019 16:35:26 Africa/Nairobi] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 102
+[13-Jan-2019 16:35:26 Africa/Nairobi] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 103
+[13-Jan-2019 16:35:26 Africa/Nairobi] PHP Warning:  Use of undefined constant price - assumed 'price' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 104
+[13-Jan-2019 16:35:26 Africa/Nairobi] PHP Warning:  Use of undefined constant description - assumed 'description' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 105
+[13-Jan-2019 16:35:26 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 106
+[13-Jan-2019 16:35:26 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$category_name in /home/semewear/public_html/Admin/update.php on line 106
+[13-Jan-2019 16:35:26 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_id in /home/semewear/public_html/Admin/update.php on line 55
+[13-Jan-2019 16:35:26 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_name in /home/semewear/public_html/Admin/update.php on line 56
+[13-Jan-2019 16:38:32 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 100
+[13-Jan-2019 16:38:32 Africa/Nairobi] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 102
+[13-Jan-2019 16:38:32 Africa/Nairobi] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 103
+[13-Jan-2019 16:38:32 Africa/Nairobi] PHP Warning:  Use of undefined constant price - assumed 'price' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 104
+[13-Jan-2019 16:38:32 Africa/Nairobi] PHP Warning:  Use of undefined constant description - assumed 'description' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 105
+[13-Jan-2019 16:38:32 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 106
+[13-Jan-2019 16:38:32 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_id in /home/semewear/public_html/Admin/update.php on line 55
+[13-Jan-2019 16:38:32 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_name in /home/semewear/public_html/Admin/update.php on line 56
+[13-Jan-2019 16:39:57 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 100
+[13-Jan-2019 16:39:57 Africa/Nairobi] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 102
+[13-Jan-2019 16:39:57 Africa/Nairobi] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 103
+[13-Jan-2019 16:39:57 Africa/Nairobi] PHP Warning:  Use of undefined constant price - assumed 'price' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 104
+[13-Jan-2019 16:39:57 Africa/Nairobi] PHP Warning:  Use of undefined constant description - assumed 'description' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 105
+[13-Jan-2019 16:39:57 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 106
+[13-Jan-2019 16:39:57 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_id in /home/semewear/public_html/Admin/update.php on line 55
+[13-Jan-2019 16:39:57 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_name in /home/semewear/public_html/Admin/update.php on line 56
+[13-Jan-2019 16:43:18 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 100
+[13-Jan-2019 16:43:18 Africa/Nairobi] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/semewear/public_html/Admin/update.php on line 100
+[13-Jan-2019 16:45:04 Africa/Nairobi] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 102
+[13-Jan-2019 16:45:04 Africa/Nairobi] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 103
+[13-Jan-2019 16:45:04 Africa/Nairobi] PHP Warning:  Use of undefined constant price - assumed 'price' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 104
+[13-Jan-2019 16:45:04 Africa/Nairobi] PHP Warning:  Use of undefined constant description - assumed 'description' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 105
+[13-Jan-2019 16:45:04 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 106
+[13-Jan-2019 16:45:04 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_id in /home/semewear/public_html/Admin/update.php on line 55
+[13-Jan-2019 16:45:04 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_name in /home/semewear/public_html/Admin/update.php on line 56
+[13-Jan-2019 16:59:09 Africa/Nairobi] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 103
+[13-Jan-2019 16:59:09 Africa/Nairobi] PHP Warning:  Use of undefined constant price - assumed 'price' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 104
+[13-Jan-2019 16:59:09 Africa/Nairobi] PHP Warning:  Use of undefined constant description - assumed 'description' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 105
+[13-Jan-2019 16:59:09 Africa/Nairobi] PHP Warning:  Use of undefined constant category_name - assumed 'category_name' (this will throw an Error in a future version of PHP) in /home/semewear/public_html/Admin/update.php on line 106
+[13-Jan-2019 16:59:09 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_id in /home/semewear/public_html/Admin/update.php on line 55
+[13-Jan-2019 16:59:09 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_name in /home/semewear/public_html/Admin/update.php on line 56
+[13-Jan-2019 17:02:57 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_id in /home/semewear/public_html/Admin/update.php on line 55
+[13-Jan-2019 17:02:57 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_name in /home/semewear/public_html/Admin/update.php on line 56
+[13-Jan-2019 17:03:11 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_id in /home/semewear/public_html/Admin/update.php on line 55
+[13-Jan-2019 17:03:11 Africa/Nairobi] PHP Notice:  Undefined property: product::$category_name in /home/semewear/public_html/Admin/update.php on line 56
+[14-Jan-2019 19:00:54 Africa/Nairobi] PHP Warning:  hash_equals(): Expected known_string to be a string, boolean given in /home/semewear/public_html/Admin/jwtGen.php on line 36
+[15-Jan-2019 10:40:02 Africa/Nairobi] PHP Warning:  hash_equals(): Expected known_string to be a string, boolean given in /home/semewear/public_html/Admin/jwtGen.php on line 36

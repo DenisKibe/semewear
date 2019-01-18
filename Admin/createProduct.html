@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Material Design Bootstrap</title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="css/mdb.min.css" rel="stylesheet">
+  <!-- Your custom styles (optional) -->
+  <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- Start your project here-->
+   <!--main navigation-->
+  <!--Navbar-->
+<nav class="navbar navbar-expand-lg navbar-dark unique-color-dark scrolling-navbar">
+    <div class="container">
+  
+      <!-- Navbar brand -->
+    <a class="navbar-brand" href="#">SemeWear</a>
+	
+	<ul class="navbar-nav">
+		<li class="nav-item active">
+			<a class="nav-link" href="getProducts.html">Get Products</a>
+		</li>
+	</ul>
+	<ul class="navbar-nav">
+		<li class="nav-item">
+			<a class="nav-link" href="createProduct.html">Create Product</a>
+		</li>
+	</ul>
+  
+    </div>
+  </nav>
+  
+  <!--/.Navbar-->
+  </header>
+  <!--main navigation-->
+<div class="container">
+	<div class="row">
+		<div class="col">
+		<form action="createProducts.php" method="POST" enctype="multipart/form-data">
+			<div class="md-form mb-3">
+              <i class="prefix grey-text"></i>
+              <input type="text" name="pName" id="pName" class="form-control validate">
+              <label data-error="wrong" data-success="right" for="defaultForm-email">Product Name</label>
+            </div>
+    
+            <div class="md-form mb-3">
+              <i class="prefix grey-text"></i>
+              <textarea name="pDescrition" rows='5' id="pDescrition" class="form-control validate"></textarea>
+              <label data-error="wrong" data-success="right" for="defaultForm-email">Product Description</label>
+            </div>
+			
+			<div class="md-form mb-3">
+              <i class="prefix grey-text"></i>
+              <input type="number" name="pPrice" id="pPrice" class="form-control validate">
+              <label data-error="wrong" data-success="right" for="defaultForm-email">Product Price</label>
+            </div>
+			
+			<div class="md-form mb-3">
+              <i class="prefix grey-text"></i>
+              <select class="form-control validate" name="pCatergory" id="pCatergory">
+			  <option value="-1">Select product category...</option>
+			  <option value="Men's fashion">Men's fashion</option>
+			  <option value="women's fashion">Women's Fashion</option>
+			  <option value="Shoes">Shoes</option>
+			  <option value="Bags">Bags</option>
+			  <option value="Hoods">Hoods</option>
+			  </select>
+            </div>
+			
+			<div class="md-form mb-3">
+              <i class="prefix grey-text"></i>
+              <input type="file" name="imageName" id="imageName" class="form-control validate" accept="images/*">
+            </div>
+			
+			<div class="invisible">
+				<input type="text" id="Verify" name="Verify">
+			</div>
+			<div class="md-form float-right">
+				<button type="submit" class="btn btn-default" name="SubmitD" id="SubmitD">Submit</button>
+			</div>
+		</form>
+		</div>
+	
+	</div>
+</div>
+		
+
+<!--main navigation-->
+  
+
+  <!-- SCRIPTS -->
+  <!-- JQuery -->
+  <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="js/popper.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="js/bootstrap.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="js/mdb.min.js"></script>
+  <script>
+  $('#Verify').val(sessionStorage.session);
+  </script>
+</body>
+
+</html>
